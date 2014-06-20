@@ -1,0 +1,113 @@
+//
+// VideoJS
+//
+
+@font-face {
+  font-family: "VideoJS";
+  src: font-url("VideoJS_f0303f27229473c5272fc444e54ab93c.eot");
+  src: font-url("VideoJS_f0303f27229473c5272fc444e54ab93c.eot?#iefix") format("embedded-opentype"),
+       font-url("VideoJS_f0303f27229473c5272fc444e54ab93c.woff") format("woff"),
+       font-url("VideoJS_f0303f27229473c5272fc444e54ab93c.ttf") format("truetype"),
+       font-url("VideoJS_f0303f27229473c5272fc444e54ab93c.svg#VideoJS") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "VideoJS";
+    src: font-url("VideoJS_f0303f27229473c5272fc444e54ab93c.svg#VideoJS") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.vjs-android-share:before,
+.vjs-arrow-expand:before,
+.vjs-arrow-shrink:before,
+.vjs-closed-captioning:before,
+.vjs-ios7-chatbubble:before,
+.vjs-ios7-expand:before,
+.vjs-ios7-fastforward:before,
+.vjs-ios7-fastforward-outline:before,
+.vjs-ios7-pause:before,
+.vjs-ios7-pause-outline:before,
+.vjs-ios7-play:before,
+.vjs-ios7-play-outline:before,
+.vjs-ios7-shrink:before,
+.vjs-ios7-skipbackward:before,
+.vjs-ios7-skipbackward-outline:before,
+.vjs-ios7-skipforward:before,
+.vjs-ios7-skipforward-outline:before,
+.vjs-ios7-star:before,
+.vjs-ios7-star-half:before,
+.vjs-ios7-star-outline:before,
+.vjs-ios7-volume-high:before,
+.vjs-ios7-volume-low:before,
+.vjs-list:before,
+.vjs-load-a:before,
+.vjs-load-b:before,
+.vjs-load-c:before,
+.vjs-load-d:before,
+.vjs-pause:before,
+.vjs-play:before,
+.vjs-settings:before,
+.vjs-skip-backward:before,
+.vjs-skip-forward:before,
+.vjs-thumbsdown:before,
+.vjs-thumbsup:before,
+.vjs-volume-high:before,
+.vjs-volume-low:before,
+.vjs-volume-medium:before {
+  display: inline-block;
+  font-family: "VideoJS";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.vjs-android-share:before { content: "\f100"; }
+.vjs-arrow-expand:before { content: "\f101"; }
+.vjs-arrow-shrink:before { content: "\f102"; }
+.vjs-closed-captioning:before { content: "\f103"; }
+.vjs-ios7-chatbubble:before { content: "\f104"; }
+.vjs-ios7-expand:before { content: "\f105"; }
+.vjs-ios7-fastforward:before { content: "\f106"; }
+.vjs-ios7-fastforward-outline:before { content: "\f107"; }
+.vjs-ios7-pause:before { content: "\f108"; }
+.vjs-ios7-pause-outline:before { content: "\f109"; }
+.vjs-ios7-play:before { content: "\f10a"; }
+.vjs-ios7-play-outline:before { content: "\f10b"; }
+.vjs-ios7-shrink:before { content: "\f10c"; }
+.vjs-ios7-skipbackward:before { content: "\f10d"; }
+.vjs-ios7-skipbackward-outline:before { content: "\f10e"; }
+.vjs-ios7-skipforward:before { content: "\f10f"; }
+.vjs-ios7-skipforward-outline:before { content: "\f110"; }
+.vjs-ios7-star:before { content: "\f111"; }
+.vjs-ios7-star-half:before { content: "\f112"; }
+.vjs-ios7-star-outline:before { content: "\f113"; }
+.vjs-ios7-volume-high:before { content: "\f114"; }
+.vjs-ios7-volume-low:before { content: "\f115"; }
+.vjs-list:before { content: "\f116"; }
+.vjs-load-a:before { content: "\f117"; }
+.vjs-load-b:before { content: "\f118"; }
+.vjs-load-c:before { content: "\f119"; }
+.vjs-load-d:before { content: "\f11a"; }
+.vjs-pause:before { content: "\f11b"; }
+.vjs-play:before { content: "\f11c"; }
+.vjs-settings:before { content: "\f11d"; }
+.vjs-skip-backward:before { content: "\f11e"; }
+.vjs-skip-forward:before { content: "\f11f"; }
+.vjs-thumbsdown:before { content: "\f120"; }
+.vjs-thumbsup:before { content: "\f121"; }
+.vjs-volume-high:before { content: "\f122"; }
+.vjs-volume-low:before { content: "\f123"; }
+.vjs-volume-medium:before { content: "\f124"; }
