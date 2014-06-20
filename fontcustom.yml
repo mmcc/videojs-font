@@ -44,4 +44,5 @@ output:
 templates:
  - _vjs-font.scss
  - _vjs-font.less
+ - vjs-font.css
  - preview

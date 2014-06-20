@@ -1,0 +1,14 @@
+/*
+  <%= font_name %>
+*/
+
+<%= font_face %>
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+<%= glyph_selectors %> {
+<%= glyph_properties %>
+}
+
+<%= glyphs %>

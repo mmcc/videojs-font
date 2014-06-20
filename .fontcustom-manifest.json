@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "f0303f27229473c5272fc444e54ab93cb4fc8abf24518ebfb8c65be4d86b502b",
-    "current": "f0303f27229473c5272fc444e54ab93cb4fc8abf24518ebfb8c65be4d86b502b"
+    "previous": "52c181f2fdb5cdef67c2a9f6f0c5397d1fdafb3107b64e0d933a9d3efdf10659",
+    "current": "52c181f2fdb5cdef67c2a9f6f0c5397d1fdafb3107b64e0d933a9d3efdf10659"
   },
   "fonts": [
-    "dist/fonts/VideoJS_f0303f27229473c5272fc444e54ab93c.ttf",
-    "dist/fonts/VideoJS_f0303f27229473c5272fc444e54ab93c.svg",
-    "dist/fonts/VideoJS_f0303f27229473c5272fc444e54ab93c.woff",
-    "dist/fonts/VideoJS_f0303f27229473c5272fc444e54ab93c.eot"
+    "dist/fonts/VideoJS_52c181f2fdb5cdef67c2a9f6f0c5397d.ttf",
+    "dist/fonts/VideoJS_52c181f2fdb5cdef67c2a9f6f0c5397d.svg",
+    "dist/fonts/VideoJS_52c181f2fdb5cdef67c2a9f6f0c5397d.woff",
+    "dist/fonts/VideoJS_52c181f2fdb5cdef67c2a9f6f0c5397d.eot"
   ],
   "glyphs": {
     "android-share": {
@@ -181,12 +181,14 @@
     "templates": [
       "_vjs-font.scss",
       "_vjs-font.less",
+      "vjs-font.css",
       "preview"
     ]
   },
   "templates": [
     "dist/stylesheets/_vjs-font.scss",
     "dist/stylesheets/_vjs-font.less",
+    "dist/stylesheets/vjs-font.css",
     "styleguide/VideoJS-preview.html"
   ]
 }

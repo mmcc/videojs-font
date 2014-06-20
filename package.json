@@ -1,0 +1,12 @@
+{
+  "name": "videojs-font",
+  "version": "0.0.1",
+  "description": "VideoJS Custom Icon Font",
+  "keywords": [
+    "videojs",
+    "icons",
+    "font"
+  ],
+  "author": "Matthew McClure <mmcclure@brightcove.com>",
+  "license": "MIT"
+}
