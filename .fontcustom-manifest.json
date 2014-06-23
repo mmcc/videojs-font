@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "52c181f2fdb5cdef67c2a9f6f0c5397d1fdafb3107b64e0d933a9d3efdf10659",
-    "current": "52c181f2fdb5cdef67c2a9f6f0c5397d1fdafb3107b64e0d933a9d3efdf10659"
+    "previous": "7ebb2071cad331be10471d82c9963e9d1046ef5dcc9c36dbb274f1c7e5dd645b",
+    "current": "7ebb2071cad331be10471d82c9963e9d1046ef5dcc9c36dbb274f1c7e5dd645b"
   },
   "fonts": [
-    "dist/fonts/VideoJS_52c181f2fdb5cdef67c2a9f6f0c5397d.ttf",
-    "dist/fonts/VideoJS_52c181f2fdb5cdef67c2a9f6f0c5397d.svg",
-    "dist/fonts/VideoJS_52c181f2fdb5cdef67c2a9f6f0c5397d.woff",
-    "dist/fonts/VideoJS_52c181f2fdb5cdef67c2a9f6f0c5397d.eot"
+    "dist/fonts/VideoJS_7ebb2071cad331be10471d82c9963e9d.ttf",
+    "dist/fonts/VideoJS_7ebb2071cad331be10471d82c9963e9d.svg",
+    "dist/fonts/VideoJS_7ebb2071cad331be10471d82c9963e9d.woff",
+    "dist/fonts/VideoJS_7ebb2071cad331be10471d82c9963e9d.eot"
   ],
   "glyphs": {
     "android-share": {
@@ -25,6 +25,10 @@
     "closed-captioning": {
       "codepoint": 61699,
       "source": "vectors/closed-captioning.svg"
+    },
+    "gear-b": {
+      "codepoint": 61733,
+      "source": "vectors/gear-b.svg"
     },
     "ios7-chatbubble": {
       "codepoint": 61700,
@@ -81,6 +85,10 @@
     "ios7-star": {
       "codepoint": 61713,
       "source": "vectors/ios7-star.svg"
+    },
+    "ios7-star-5": {
+      "codepoint": 61734,
+      "source": "vectors/ios7-star-5.svg"
     },
     "ios7-star-half": {
       "codepoint": 61714,

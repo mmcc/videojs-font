@@ -141,11 +141,11 @@
 
       @font-face {
   font-family: "VideoJS";
-  src: url("../dist/fonts/VideoJS_52c181f2fdb5cdef67c2a9f6f0c5397d.eot");
-  src: url("../dist/fonts/VideoJS_52c181f2fdb5cdef67c2a9f6f0c5397d.eot?#iefix") format("embedded-opentype"),
-       url("../dist/fonts/VideoJS_52c181f2fdb5cdef67c2a9f6f0c5397d.woff") format("woff"),
-       url("../dist/fonts/VideoJS_52c181f2fdb5cdef67c2a9f6f0c5397d.ttf") format("truetype"),
-       url("../dist/fonts/VideoJS_52c181f2fdb5cdef67c2a9f6f0c5397d.svg#VideoJS") format("svg");
+  src: url("../dist/fonts/VideoJS_7ebb2071cad331be10471d82c9963e9d.eot");
+  src: url("../dist/fonts/VideoJS_7ebb2071cad331be10471d82c9963e9d.eot?#iefix") format("embedded-opentype"),
+       url("../dist/fonts/VideoJS_7ebb2071cad331be10471d82c9963e9d.woff") format("woff"),
+       url("../dist/fonts/VideoJS_7ebb2071cad331be10471d82c9963e9d.ttf") format("truetype"),
+       url("../dist/fonts/VideoJS_7ebb2071cad331be10471d82c9963e9d.svg#VideoJS") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -153,7 +153,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "VideoJS";
-    src: url("../dist/fonts/VideoJS_52c181f2fdb5cdef67c2a9f6f0c5397d.svg#VideoJS") format("svg");
+    src: url("../dist/fonts/VideoJS_7ebb2071cad331be10471d82c9963e9d.svg#VideoJS") format("svg");
   }
 }
 
@@ -164,6 +164,7 @@
 .vjs-arrow-expand:before,
 .vjs-arrow-shrink:before,
 .vjs-closed-captioning:before,
+.vjs-gear-b:before,
 .vjs-ios7-chatbubble:before,
 .vjs-ios7-expand:before,
 .vjs-ios7-fastforward:before,
@@ -178,6 +179,7 @@
 .vjs-ios7-skipforward:before,
 .vjs-ios7-skipforward-outline:before,
 .vjs-ios7-star:before,
+.vjs-ios7-star-5:before,
 .vjs-ios7-star-half:before,
 .vjs-ios7-star-outline:before,
 .vjs-ios7-volume-high:before,
@@ -215,6 +217,7 @@
 .vjs-arrow-expand:before { content: "\f101"; }
 .vjs-arrow-shrink:before { content: "\f102"; }
 .vjs-closed-captioning:before { content: "\f103"; }
+.vjs-gear-b:before { content: "\f125"; }
 .vjs-ios7-chatbubble:before { content: "\f104"; }
 .vjs-ios7-expand:before { content: "\f105"; }
 .vjs-ios7-fastforward:before { content: "\f106"; }
@@ -229,6 +232,7 @@
 .vjs-ios7-skipforward:before { content: "\f10f"; }
 .vjs-ios7-skipforward-outline:before { content: "\f110"; }
 .vjs-ios7-star:before { content: "\f111"; }
+.vjs-ios7-star-5:before { content: "\f126"; }
 .vjs-ios7-star-half:before { content: "\f112"; }
 .vjs-ios7-star-outline:before { content: "\f113"; }
 .vjs-ios7-volume-high:before { content: "\f114"; }
@@ -263,7 +267,7 @@
   <body class="characters-off">
     <div id="page" class="container">
       <header>
-        <h1>VideoJS contains 37 glyphs:</h1>
+        <h1>VideoJS contains 39 glyphs:</h1>
         <a onclick="toggleCharacters(); return false;" href="#">Toggle Preview Characters</a>
       </header>
 
@@ -317,6 +321,19 @@
         <div class="usage">
           <input class="class" type="text" readonly="readonly" onClick="this.select();" value=".vjs-closed-captioning" />
           <input class="point" type="text" readonly="readonly" onClick="this.select();" value="&amp;#xf103;" />
+        </div>
+      </div>
+      
+      <div class="glyph">
+        <div class="preview-glyphs">
+          <span class="step size-12"><span class="letters">Pp</span><i id="vjs-gear-b" class="vjs-gear-b"></i></span><span class="step size-14"><span class="letters">Pp</span><i id="vjs-gear-b" class="vjs-gear-b"></i></span><span class="step size-16"><span class="letters">Pp</span><i id="vjs-gear-b" class="vjs-gear-b"></i></span><span class="step size-18"><span class="letters">Pp</span><i id="vjs-gear-b" class="vjs-gear-b"></i></span><span class="step size-21"><span class="letters">Pp</span><i id="vjs-gear-b" class="vjs-gear-b"></i></span><span class="step size-24"><span class="letters">Pp</span><i id="vjs-gear-b" class="vjs-gear-b"></i></span><span class="step size-36"><span class="letters">Pp</span><i id="vjs-gear-b" class="vjs-gear-b"></i></span><span class="step size-48"><span class="letters">Pp</span><i id="vjs-gear-b" class="vjs-gear-b"></i></span><span class="step size-60"><span class="letters">Pp</span><i id="vjs-gear-b" class="vjs-gear-b"></i></span><span class="step size-72"><span class="letters">Pp</span><i id="vjs-gear-b" class="vjs-gear-b"></i></span>
+        </div>
+        <div class="preview-scale">
+          <span class="step">12</span><span class="step">14</span><span class="step">16</span><span class="step">18</span><span class="step">21</span><span class="step">24</span><span class="step">36</span><span class="step">48</span><span class="step">60</span><span class="step">72</span>
+        </div>
+        <div class="usage">
+          <input class="class" type="text" readonly="readonly" onClick="this.select();" value=".vjs-gear-b" />
+          <input class="point" type="text" readonly="readonly" onClick="this.select();" value="&amp;#xf125;" />
         </div>
       </div>
       
@@ -499,6 +516,19 @@
         <div class="usage">
           <input class="class" type="text" readonly="readonly" onClick="this.select();" value=".vjs-ios7-star" />
           <input class="point" type="text" readonly="readonly" onClick="this.select();" value="&amp;#xf111;" />
+        </div>
+      </div>
+      
+      <div class="glyph">
+        <div class="preview-glyphs">
+          <span class="step size-12"><span class="letters">Pp</span><i id="vjs-ios7-star-5" class="vjs-ios7-star-5"></i></span><span class="step size-14"><span class="letters">Pp</span><i id="vjs-ios7-star-5" class="vjs-ios7-star-5"></i></span><span class="step size-16"><span class="letters">Pp</span><i id="vjs-ios7-star-5" class="vjs-ios7-star-5"></i></span><span class="step size-18"><span class="letters">Pp</span><i id="vjs-ios7-star-5" class="vjs-ios7-star-5"></i></span><span class="step size-21"><span class="letters">Pp</span><i id="vjs-ios7-star-5" class="vjs-ios7-star-5"></i></span><span class="step size-24"><span class="letters">Pp</span><i id="vjs-ios7-star-5" class="vjs-ios7-star-5"></i></span><span class="step size-36"><span class="letters">Pp</span><i id="vjs-ios7-star-5" class="vjs-ios7-star-5"></i></span><span class="step size-48"><span class="letters">Pp</span><i id="vjs-ios7-star-5" class="vjs-ios7-star-5"></i></span><span class="step size-60"><span class="letters">Pp</span><i id="vjs-ios7-star-5" class="vjs-ios7-star-5"></i></span><span class="step size-72"><span class="letters">Pp</span><i id="vjs-ios7-star-5" class="vjs-ios7-star-5"></i></span>
+        </div>
+        <div class="preview-scale">
+          <span class="step">12</span><span class="step">14</span><span class="step">16</span><span class="step">18</span><span class="step">21</span><span class="step">24</span><span class="step">36</span><span class="step">48</span><span class="step">60</span><span class="step">72</span>
+        </div>
+        <div class="usage">
+          <input class="class" type="text" readonly="readonly" onClick="this.select();" value=".vjs-ios7-star-5" />
+          <input class="point" type="text" readonly="readonly" onClick="this.select();" value="&amp;#xf126;" />
         </div>
       </div>
       

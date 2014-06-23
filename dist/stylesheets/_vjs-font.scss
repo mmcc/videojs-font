@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: "VideoJS";
-  src: font-url("VideoJS_52c181f2fdb5cdef67c2a9f6f0c5397d.eot");
-  src: font-url("VideoJS_52c181f2fdb5cdef67c2a9f6f0c5397d.eot?#iefix") format("embedded-opentype"),
-       font-url("VideoJS_52c181f2fdb5cdef67c2a9f6f0c5397d.woff") format("woff"),
-       font-url("VideoJS_52c181f2fdb5cdef67c2a9f6f0c5397d.ttf") format("truetype"),
-       font-url("VideoJS_52c181f2fdb5cdef67c2a9f6f0c5397d.svg#VideoJS") format("svg");
+  src: font-url("VideoJS_7ebb2071cad331be10471d82c9963e9d.eot");
+  src: font-url("VideoJS_7ebb2071cad331be10471d82c9963e9d.eot?#iefix") format("embedded-opentype"),
+       font-url("VideoJS_7ebb2071cad331be10471d82c9963e9d.woff") format("woff"),
+       font-url("VideoJS_7ebb2071cad331be10471d82c9963e9d.ttf") format("truetype"),
+       font-url("VideoJS_7ebb2071cad331be10471d82c9963e9d.svg#VideoJS") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,7 +16,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "VideoJS";
-    src: font-url("VideoJS_52c181f2fdb5cdef67c2a9f6f0c5397d.svg#VideoJS") format("svg");
+    src: font-url("VideoJS_7ebb2071cad331be10471d82c9963e9d.svg#VideoJS") format("svg");
   }
 }
 
@@ -27,6 +27,7 @@
 .vjs-arrow-expand:before,
 .vjs-arrow-shrink:before,
 .vjs-closed-captioning:before,
+.vjs-gear-b:before,
 .vjs-ios7-chatbubble:before,
 .vjs-ios7-expand:before,
 .vjs-ios7-fastforward:before,
@@ -41,6 +42,7 @@
 .vjs-ios7-skipforward:before,
 .vjs-ios7-skipforward-outline:before,
 .vjs-ios7-star:before,
+.vjs-ios7-star-5:before,
 .vjs-ios7-star-half:before,
 .vjs-ios7-star-outline:before,
 .vjs-ios7-volume-high:before,
@@ -78,6 +80,7 @@
 .vjs-arrow-expand:before { content: "\f101"; }
 .vjs-arrow-shrink:before { content: "\f102"; }
 .vjs-closed-captioning:before { content: "\f103"; }
+.vjs-gear-b:before { content: "\f125"; }
 .vjs-ios7-chatbubble:before { content: "\f104"; }
 .vjs-ios7-expand:before { content: "\f105"; }
 .vjs-ios7-fastforward:before { content: "\f106"; }
@@ -92,6 +95,7 @@
 .vjs-ios7-skipforward:before { content: "\f10f"; }
 .vjs-ios7-skipforward-outline:before { content: "\f110"; }
 .vjs-ios7-star:before { content: "\f111"; }
+.vjs-ios7-star-5:before { content: "\f126"; }
 .vjs-ios7-star-half:before { content: "\f112"; }
 .vjs-ios7-star-outline:before { content: "\f113"; }
 .vjs-ios7-volume-high:before { content: "\f114"; }
