@@ -4,10 +4,10 @@
 
 You'll need to install FontCustom first (instructions below), but when that's done:
 
-    $ fontcustom compile
+    $ grunt
 
-Fonts will be available in `./dist/fonts`, with stylesheets (CSS, SCSS, and Less)
-available in `./dist/stylesheets`.
+Fonts will be available in `./build/fonts`, with stylesheets (CSS, SCSS, and Less)
+available in `./build/css`.
 
 ## Customizing the icon set
 
@@ -19,26 +19,18 @@ directory.
 
 ## Viewing available icons
 
-Please see the [styleguide](styleguide/VideoJS-preview.html).
+After compiling a font, you can view the newly available icons in
+the [generated preview](styleguide/videojs.html).
 
 ## Installing
 
 ### On OS X
 
-This requires [Homebrew](http://brew.sh/) and you'll need [XQuartz](https://xquartz.macosforge.org/landing/),
-so go ahead and install that before starting.
+Installation requires [Homebrew](http://brew.sh). For installation on other platforms,
+please see the [Grunt-Webfont README](https://github.com/sapegin/grunt-webfont).
 
-    $ brew install python
-    $ brew install gettext libpng jpeg libtiff giflib cairo pango libspiro czmq fontconfig automake libtool pkg-config glib pango
-    $ brew -v install fontforge —with-python --with-cairo --with-czmq --with-gif --with-x --with-libspiro --with-pango --enable-pyextension —debug
-
-Pay attention and make sure all of that actually succeeded or you'll have an awesome time debugging.
-
-    $ brew install ttfautohint
-    $ gem install fontcustom
-
-Yes, this means you need Python and Ruby. Yes, that's lame, but FontCustom is the best tool
-we know of at this point. If you know of something, be kind and speak up.
+    $ brew install ttfautohint fontforge --with-python
+    $ npm install grunt-webfont --save-dev
 
 ## Credits
 

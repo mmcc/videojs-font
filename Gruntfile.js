@@ -10,9 +10,11 @@ module.exports = function(grunt) {
         destCss: 'build/css',
         syntax: 'bem',
         options: {
-           font: 'videojs'
+           font: 'videojs',
+           stylesheet: 'less'
         },
         templateOptions: {
+            stylesheet: 'less',
             baseClass: 'vjs-icon',
             classPrefix: 'vjs_',
             mixinPrefix: 'vjs-'
