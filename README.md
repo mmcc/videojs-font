@@ -26,11 +26,12 @@ the [generated preview](styleguide/videojs.html).
 
 ### On OS X
 
-Installation requires [Homebrew](http://brew.sh). For installation on other platforms,
-please see the [Grunt-Webfont README](https://github.com/sapegin/grunt-webfont).
+Usage and installation requires [Grunt](http://gruntjs.com/) and [Homebrew](http://brew.sh).
 
     $ brew install ttfautohint fontforge --with-python
-    $ npm install grunt-webfont --save-dev
+    $ npm install
+
+For installation on other platforms, please see the [Grunt-Webfont README](https://github.com/sapegin/grunt-webfont).
 
 ## Credits
 

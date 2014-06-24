@@ -10,14 +10,16 @@ module.exports = function(grunt) {
         destCss: 'build/css',
         syntax: 'bem',
         options: {
-           font: 'videojs',
-           stylesheet: 'less'
+          font: 'VideoJS',
+          stylesheet: 'less',
+          codepoints: {
+            'play': 9654,
+          }
         },
         templateOptions: {
-            stylesheet: 'less',
-            baseClass: 'vjs-icon',
-            classPrefix: 'vjs_',
-            mixinPrefix: 'vjs-'
+          baseClass: 'vjs-icon',
+          classPrefix: 'vjs_',
+          mixinPrefix: 'vjs-'
         }
       }
     }
