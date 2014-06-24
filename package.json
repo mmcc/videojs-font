@@ -10,6 +10,6 @@
   "author": "Matthew McClure <mmcclure@brightcove.com>",
   "license": "MIT",
   "devDependencies": {
-    "grunt-webfont": "git://github.com/mmcc/grunt-webfont#9c1f426d"
+    "grunt-webfont": "git://github.com/mmcc/grunt-webfont#ac681905"
   }
 }
