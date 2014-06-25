@@ -13,14 +13,15 @@ module.exports = function(grunt) {
           engine: 'node',
           font: 'VideoJS',
           stylesheet: 'less',
+          hashes: false,
           codepoints: {
             'play': 9654,
+          },
+          templateOptions: {
+            baseClass: 'vjs-icon',
+            classPrefix: 'vjs-',
+            mixinPrefix: 'vjs_'
           }
-        },
-        templateOptions: {
-          baseClass: 'vjs-icon',
-          classPrefix: 'vjs_',
-          mixinPrefix: 'vjs-'
         }
       }
     }
