@@ -5,7 +5,6 @@ module.exports = function(grunt) {
     pkg: grunt.file.readJSON('package.json'),
     webfont: {
       icons: {
-        engine: 'node',
         src: 'vectors/*.svg',
         dest: 'build/fonts',
         destCss: 'build/css',
