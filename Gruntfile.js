@@ -6,10 +6,11 @@ module.exports = function(grunt) {
     webfont: {
       icons: {
         src: 'vectors/*.svg',
-        dest: 'build/fonts',
-        destCss: 'build/css',
+        dest: 'dist/fonts',
+        destCss: 'dist/css',
         syntax: 'bem',
         options: {
+          engine: 'node',
           font: 'VideoJS',
           stylesheet: 'less',
           codepoints: {

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="560px" height="560px" viewBox="0 0 560 560" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <!-- Generator: Sketch 3.0.3 (7892) - http://www.bohemiancoding.com/sketch -->
-    <title>play</title>
+    <title>star-half</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="play" sketch:type="MSArtboardGroup" fill="#000000">
-            <g sketch:type="MSLayerGroup" transform="translate(120.000000, 88.000000)" id="Shape">
-                <path d="M309.2,168.9 L30.8,3.2 C27.4,1.2 23.9,0 19.9,0 C9,0 0.1,9 0.1,20 L0,20 L0,364 L0.1,364 C0.1,375 9,384 19.9,384 C24,384 27.4,382.6 31.1,380.6 L309.2,215.1 C315.8,209.6 320,201.3 320,192 C320,182.7 315.8,174.5 309.2,168.9 L309.2,168.9 Z" sketch:type="MSShapeGroup"></path>
+        <g id="star-half" sketch:type="MSArtboardGroup" fill="#000000">
+            <g id="ios7-star-half" sketch:type="MSLayerGroup" transform="translate(56.000000, 72.000000)">
+                <path d="M140.248,256.931 L85.571,416.004 L224,317.37 L362.445,416.004 L307.76,256.937 L448,159 L276.613,159 L224,0.005 L171.402,159 L0,159 L140.248,256.931 L140.248,256.931 Z M224,52.75 L265,176 L396,176 L288,250.711 L330.623,373.192 L224,297.257 L224,52.75 L224,52.75 Z" id="Shape" sketch:type="MSShapeGroup"></path>
             </g>
         </g>
     </g>
