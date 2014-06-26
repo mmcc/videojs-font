@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="560px" height="560px" viewBox="0 0 560 560" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <!-- Generator: Sketch 3.0.3 (7892) - http://www.bohemiancoding.com/sketch -->
     <title>star</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="star" sketch:type="MSArtboardGroup" fill="#000000">
-            <g id="ios7-star" sketch:type="MSLayerGroup" transform="translate(56.000000, 72.000000)">
+            <g id="ios7-star" sketch:type="MSLayerGroup" transform="translate(32.000000, 48.000000)">
                 <path d="M448,159 L276.6,159 L224,-0.1 L171.4,159 L0,159 L140.2,256.9 L85.6,416 L224,317.4 L362.4,416 L307.7,256.9 L448,159 L448,159 Z" id="Shape" sketch:type="MSShapeGroup"></path>
             </g>
         </g>

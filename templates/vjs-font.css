@@ -93,6 +93,8 @@ li[class*=" <%= classPrefix %>"].<%= classPrefix %>large:before {
 
 <% if (iconsStyles) { %>/* Icons */<% for (var glyphIdx = 0; glyphIdx < glyphs.length; glyphIdx++) { %>
 <% if (stylesheet === 'less') { %>
+/* Variables */
+@<%= glyphs[glyphIdx] %>-icon: "\<%= codepoints[glyphIdx] %>";
 .<%= classPrefix %><%= glyphs[glyphIdx] %> {
 	&:before {
 		content:"<% if (addLigatures) { %><%= glyphs[glyphIdx] %><% } else { %>\<%= codepoints[glyphIdx] %><% } %>";

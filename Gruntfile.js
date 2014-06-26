@@ -6,17 +6,19 @@ module.exports = function(grunt) {
     webfont: {
       icons: {
         src: 'vectors/*.svg',
-        dest: 'dist/fonts',
-        destCss: 'dist/css',
+        dest: 'dist/font',
+        destCss: 'dist',
         syntax: 'bem',
         options: {
-          engine: 'node',
+          // engine: 'node',
           font: 'VideoJS',
           stylesheet: 'less',
           hashes: false,
           codepoints: {
             'play': 9654,
           },
+          htmlDemoTemplate: 'templates/preview.html',
+          template: 'templates/vjs-font.css',
           templateOptions: {
             baseClass: 'vjs-icon',
             classPrefix: 'vjs-',

@@ -1,23 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="560px" height="560px" viewBox="0 0 560 560" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <!-- Generator: Sketch 3.0.3 (7892) - http://www.bohemiancoding.com/sketch -->
     <title>list</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="list" sketch:type="MSArtboardGroup">
-            <g sketch:type="MSLayerGroup" transform="translate(88.000000, 120.000000)" id="Page-1">
+            <g sketch:type="MSLayerGroup" transform="translate(28.000000, 65.000000)" id="Page-1">
                 <g sketch:type="MSShapeGroup">
                     <g id="list">
-                        <g id="lines" transform="translate(82.000000, 0.000000)" fill="#000000">
-                            <path d="M277.934375,128 L24.065625,128 C10.7744792,128 0,142.3 0,160 C0,177.7 10.7744792,192 24.065625,192 L277.934375,192 C291.225521,192 302,177.7 302,160 C302,142.3 291.225521,128 277.934375,128 L277.934375,128 L277.934375,128 Z" id="Shape"></path>
-                            <path d="M277.934375,0 L24.065625,0 C10.7744792,0 0,14.3 0,32 C0,49.7 10.7744792,64 24.065625,64 L277.934375,64 C291.225521,64 302,49.7 302,32 C302,14.3 291.225521,0 277.934375,0 L277.934375,0 L277.934375,0 Z" id="Shape"></path>
-                            <path d="M277.934375,256 L24.065625,256 C10.7744792,256 0,270.3 0,288 C0,305.7 10.7744792,320 24.065625,320 L277.934375,320 C291.225521,320 302,305.7 302,288 C302,270.3 291.225521,256 277.934375,256 L277.934375,256 L277.934375,256 Z" id="Shape"></path>
-                        </g>
-                        <g id="circles" fill="#010101">
-                            <circle id="Oval" cx="31.9438596" cy="31.9438596" r="31.9438596"></circle>
-                            <circle id="Oval-2" cx="31.9438596" cy="159.94386" r="31.9438596"></circle>
-                            <circle id="Oval-3" cx="31.9438596" cy="287.94386" r="31.9438596"></circle>
+                        <g id="Page-1">
+                            <g id="Group">
+                                <g id="list">
+                                    <g id="lines" transform="translate(97.588542, 0.000000)" fill="#000000">
+                                        <path d="M330.770858,152.8 L28.6406006,152.8 C12.8227526,152.8 0,169.870625 0,191 C0,212.129375 12.8227526,229.2 28.6406006,229.2 L330.770858,229.2 C346.588706,229.2 359.411458,212.129375 359.411458,191 C359.411458,169.870625 346.588706,152.8 330.770858,152.8 L330.770858,152.8 L330.770858,152.8 Z" id="Shape"></path>
+                                        <path d="M330.770858,0 L28.6406006,0 C12.8227526,0 0,17.070625 0,38.2 C0,59.329375 12.8227526,76.4 28.6406006,76.4 L330.770858,76.4 C346.588706,76.4 359.411458,59.329375 359.411458,38.2 C359.411458,17.070625 346.588706,0 330.770858,0 L330.770858,0 L330.770858,0 Z" id="Shape"></path>
+                                        <path d="M330.770858,305.6 L28.6406006,305.6 C12.8227526,305.6 0,322.670625 0,343.8 C0,364.929375 12.8227526,382 28.6406006,382 L330.770858,382 C346.588706,382 359.411458,364.929375 359.411458,343.8 C359.411458,322.670625 346.588706,305.6 330.770858,305.6 L330.770858,305.6 L330.770858,305.6 Z" id="Shape"></path>
+                                    </g>
+                                    <g id="circles" fill="#010101">
+                                        <ellipse id="Oval" cx="38.0165204" cy="38.1329824" rx="38.0165204" ry="38.1329824"></ellipse>
+                                        <ellipse id="Oval-2" cx="38.0165204" cy="190.605085" rx="38.0165204" ry="38.1329824"></ellipse>
+                                        <ellipse id="Oval-3" cx="38.0165204" cy="343.896931" rx="38.0165204" ry="38.1329824"></ellipse>
+                                    </g>
+                                </g>
+                            </g>
                         </g>
                     </g>
                 </g>
