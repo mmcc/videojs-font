@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.0.3 (7892) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
     <title>stop</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="stop" sketch:type="MSArtboardGroup" fill="#000000">
-            <g sketch:type="MSLayerGroup" transform="translate(64.000000, 64.000000)" id="Shape">
-                <path d="M373.4,0 L10.6,0 C4.7,0 0,4.7 0,10.6 L0,373.4 C0,379.3 4.7,384 10.6,384 L373.4,384 C379.2,384 384,379.3 384,373.4 L384,10.6 C384,4.7 379.2,0 373.4,0 L373.4,0 Z" sketch:type="MSShapeGroup"></path>
+            <g id="fi-stop" sketch:type="MSLayerGroup" transform="translate(65.000000, 65.000000)">
+                <path d="M382.311967,13.5419 C382.2865,5.95283333 376.1363,-0.184633333 368.540867,-0.184633333 C368.3626,-0.184633333 368.197067,-0.140066667 368.0188,-0.1337 L368.0188,-0.1337 L14.6560667,-0.1337 C14.2549667,-0.1719 13.8602333,-0.254666667 13.4464,-0.254666667 C5.8446,-0.254666667 -0.3247,5.90826667 -0.3247,13.5164333 C-0.3247,14.1594667 -0.222833333,14.7770333 -0.1337,15.3946 L-0.1337,368.439 L-0.127333333,368.439 C-0.127333333,368.4581 -0.1337,368.4772 -0.1337,368.4963 C-0.1337,376.0981 6.0356,382.261033 13.6374,382.261033 C13.9302667,382.261033 14.2040333,382.191 14.4905333,382.178267 L14.4905333,382.191 L369.037467,382.191 L369.037467,382.0764 C376.378233,381.809 382.261033,375.837067 382.3056,368.439 L382.311967,368.439 L382.311967,13.5419 L382.311967,13.5419 Z" id="Shape" sketch:type="MSShapeGroup"></path>
             </g>
         </g>
     </g>

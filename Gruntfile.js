@@ -10,13 +10,13 @@ module.exports = function(grunt) {
         destCss: 'dist',
         syntax: 'bem',
         options: {
-          // engine: 'node',
+          engine: 'node',
           font: 'VideoJS',
           stylesheet: 'less',
           hashes: false,
-          codepoints: {
-            'play': 9654,
-          },
+          // codepoints: {
+          //   'play': 9654,
+          // },
           htmlDemoTemplate: 'templates/preview.html',
           template: 'templates/vjs-font.css',
           templateOptions: {
